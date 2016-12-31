@@ -1,0 +1,38 @@
+body{
+  background-color: #000;
+  color: #E6E6FA;
+}
+
+h1{
+  font-family: Dancing Script;
+}
+
+img{
+  border-radius: 2%;
+  margin: 18px;
+}
+
+#top-padding{
+  padding-top: 20px;
+}
+
+a:link, a:visited{
+  font-family: candal;
+  color: #E6E6FA;
+  text-decoration: none;
+}
+
+a:hover{
+  font-family: candal;
+  color: #76767A;
+  text-decoration: none;
+}
+
+a:active{
+  font-family: candal;
+  text-decoration: none;
+}
+
+.table-params{
+  color: #E6E6FA;
+}
